@@ -1,0 +1,43 @@
+body{
+    background: black;
+ 
+ }
+ .post{
+     width: 400px;
+     background-color: white;
+ }
+ .post-head{
+   display: flex;
+   align-items: center;
+   width: 400px; 
+   margin-left: 2px;
+   margin-right: 2px;
+   
+ }
+ #tabla{
+     margin-left: 4px;
+ }
+#puntos{
+    margin-left:auto;
+    padding-right: 4px;
+}
+.post-footer{
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 400px;
+}
+.post-footer div{
+    display: flex;
+}
+#book{
+    margin-left:auto;
+    padding-right: 4px;
+    
+}
+p{
+    margin: 2px;
+    margin-top: 5px;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
